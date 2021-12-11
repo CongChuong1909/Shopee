@@ -852,7 +852,7 @@
 
 .slider-link{
     display: block;
-    z-index: 12;
+    z-index: 1;
     /* background-color: #cc2515; */
     position: absolute;
     width: 100%;
