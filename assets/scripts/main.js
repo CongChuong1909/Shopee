@@ -128,3 +128,16 @@ $(document).ready(function () {
   },1000)
   setInterval();
 
+//back to top
+// $(document).ready(function () {
+//     $(window).scroll(function () {
+//         if ($(this).scrollTop() > 100) {
+//             $('.back_top').addClass('open')
+//         }
+//         else (
+//             $('.back_top').removeClass('open')
+//         )
+//     });
+// });
+
+
