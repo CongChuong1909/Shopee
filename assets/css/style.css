@@ -1465,6 +1465,9 @@
     border-top:1px solid #e5e5e5;
     border-bottom:1px solid #e5e5e5;
 }
+.list-product-header__sort-bar{
+    display: none;
+}
 .header__sort-bar-item{
     flex:1;
 }
@@ -1564,6 +1567,7 @@
     color: #fff;
     font-weight: 500;    
     transition: all ease-in-out 0.3s;
+    cursor: pointer;
 }
 
 .list-product__hour-sale-items-hour p{

@@ -43,6 +43,16 @@
     .header__mobile{
         display: block;
     }
+    .slider{
+        padding-top: 0;
+    }
+    .double-banner{
+        margin-top: 8px;
+    }
+    .category__product-items p{
+        font-size: 14px;
+    }
+
 }
 /* tablet */
 @media(min-width:740px) and (max-width:1023px){
@@ -53,6 +63,9 @@
         width: 80px;
         text-align: right;
         padding-right: 12px;
+    }
+    .category-bar-items p{
+        font-size: 14px;
     }
 
 }
@@ -150,5 +163,44 @@
     .pagination-item-link{
         min-width: 26px;
         font-size: 16px;
+    }
+    .category-bar-items p{
+        font-size: 12px;
+    }
+    .slide-link-single-banner img{
+        height: 80px;
+    }
+    .logo-flashsale img{
+        width: 120px;
+    }
+    .sale-0vnd img{
+        width: 60px;
+    }
+    .list-product__hour-sale-items-hour{
+        font-size: 20px;
+    }
+    .list-product__hour-sale-items-hour p{
+        font-size: 14px;
+    }
+    .list-product-header__sort-bar{
+        top: var(--header-height);
+        left: 0;
+        right: 0;
+        height: var(--header-sort-bar-height);
+        background: #fff;
+        display: none;
+        list-style: none;
+        border-top:1px solid #e5e5e5;
+        border-bottom:1px solid #e5e5e5;
+    }
+    .product-list__countDown-text p{
+        display: none;
+    }
+    .flash__sale-list-product{
+        height: 80px;
+        margin-bottom: 8px;
+    }
+    .list-product__hour-sale-list{
+        margin-bottom: 8px;
     }
 }
