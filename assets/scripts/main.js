@@ -269,6 +269,17 @@ const ListImage = [
   ' ./assets/image/it7.jfif ',
   ' ./assets/image/it8.jfif ',
   ' ./assets/image/it9.jfif ',
+  ' https://cf.shopee.vn/file/7f4345319a1b855807c220ea600d66c6_tn ',
+  ' https://cf.shopee.vn/file/50d539365aa0a34ff2700527653d3cf1_tn ',
+  ' https://cf.shopee.vn/file/a74ad5018001b4924aa2fe87d401053d_tn ',
+  ' https://cf.shopee.vn/file/340c77d9da508864f035b34ff82f291f_tn ',
+  ' https://cf.shopee.vn/file/f8ca4d3d1265b88816db9be465f83454_tn ',
+  ' https://cf.shopee.vn/file/49c96d1cbe19b1639e37ef090ccbc8c9_tn ',
+  ' https://cf.shopee.vn/file/db6bad82cf19a28d27c460efe683957a_tn ',
+  ' https://cf.shopee.vn/file/3a4b5944f2045495a9be3a16ea051511_tn ',
+  ' https://cf.shopee.vn/file/f5fe5f49df65cbbca8e6e056c02963fa_tn ',
+  ' https://cf.shopee.vn/file/33c6d36dff01b435d2e61096bc67448e_tn ',
+
 ]
 var itemProductMain = document.querySelectorAll(".home-product__item-main");
 itemProductMain.forEach(function (item, index) {

@@ -1251,7 +1251,7 @@
     position: relative;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
-    box-shadow:1px 0 2px 1px rgba(0, 0, 0, .1);
+    box-shadow:1px 2px 2px 1px rgba(0, 0, 0, .1);
     transition: transform linear 0.1s;
     will-change: transform;
     display: block;
